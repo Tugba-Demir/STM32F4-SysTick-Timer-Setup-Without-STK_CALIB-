@@ -11,6 +11,9 @@ This repository demonstrates how to configure the SysTick timer on STM32F4 micro
 - Handle SysTick interrupt in a simple example
 - Easy-to-understand C code suitable for STM32F4 beginners and hobbyists
 
+## Demo Vidoe
+https://youtube.com/shorts/5Nxn8Jo6utU?feature=share
+
 ## NOTES
 
 1. T(SysTick timer counter) sn = (STK_LOAD+1)/F(SysTick timer counter)Hz => Period = 1 / Frequency
